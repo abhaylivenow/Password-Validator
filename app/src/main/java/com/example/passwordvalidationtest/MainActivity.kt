@@ -10,5 +10,6 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
 
         Log.i("tag","Hey There!!!")
+        Log.i("tag2","Hello Again!!!")
     }
 }
